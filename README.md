@@ -18,4 +18,4 @@ HTML, CSS, Vanilla JavaScript
 - [ ] PDF로 내보내기 기능 추가
 
 ## Reference
-[Responsive Resume Cv Website](https://www.youtube.com/watch?v=oYjseP_Qhv4&list=WL&index=1)
+[Responsive Resume Cv Website - YouTube Bedimcode](https://www.youtube.com/watch?v=oYjseP_Qhv4&list=WL&index=1)
